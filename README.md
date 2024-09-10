@@ -1,16 +1,11 @@
 # todo_w_bloc_flutter
 
-A new Flutter project.
+A new Flutter project demonstrating simple ToDo app with BLoC architecture seperating domain, presentation and data layer.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project uses:
 
-A few resources to get you started if this is your first Flutter project:
+-[Isar Database](https://isar.dev/tutorials/quickstart.html).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-[BLoC](https://bloclibrary.dev/getting-started/)
